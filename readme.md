@@ -12,10 +12,16 @@
 | Utility | Description |
 |---------|-------------|
 | [BZFObservatory](https://github.com/Zehra/BZFObservatory) | Script for friendlists, serverlists..etc (lets you know when you want to be notified of something.)  |
+| [BZFObserver-TUI](https://github.com/Zehra/BZFObserver-TUI) | Lightweight TUI version of [BZFObservatory](https://github.com/Zehra/BZFObservatory). |
 
 # Plug-ins:
 | Plug-in | Description |
 |---------|-------------|
+| [ShockwaveOnDeathByKiller](https://github.com/Zehra/ShockwaveOnDeathByKiller) | Enables kills to trigger shockwaves on the killer's behalf. |
+| [ShockwaveOnDeathByPlayer](https://github.com/Zehra/ShockwaveOnDeathByPlayer) | Spawns a shockwave by the "player" on their death. |
+| [ShutdownServerInXSeconds](https://github.com/Zehra/ShutdownServerInXSeconds) | Plugin to shutdown BZFlag server in x seconds. (Useful for a lot of things.) |
+| [CallsignRegisterable](https://github.com/Zehra/CallsignRegisterable) | BZFlag plugin to notify players if their callsign isn't registerable. |
+| [SpawnSave](https://github.com/Zehra/SpawnSave) | |
 | [PortableTeleporter](https://github.com/Zehra/PortableTeleporter) | `API Bypass` Custom flag which enables players to "teleport" with it. |
 | [KillSwap](https://github.com/Zehra/KillSwap) | `API Bypass` Custom flag which causes the killer to swap places with whoever they kill. |
 | [Teleport](https://github.com/Zehra/Teleport) | `API Bypass`, `Utility`, `Experimental` Permits "teleporting" via slash commands, useful for testing and debugging. (WIP and incomplete ATM.) |
